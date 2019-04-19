@@ -1,0 +1,22 @@
+{
+  "name": "rf-db-fill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ten-7/rf-DBFiller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ten-7/rf-DBFiller/issues"
+  },
+  "homepage": "https://github.com/ten-7/rf-DBFiller#readme",
+  "dependencies": {
+    "mongoose": "^5.5.2"
+  }
+}
